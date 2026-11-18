@@ -15,4 +15,10 @@
     <ProjectReference Include="..\ECommerce.Infrastructure\ECommerce.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+    <Folder Include="Endpoints\" />
+    <Folder Include="Middleware\" />
+  </ItemGroup>
+
 </Project>
